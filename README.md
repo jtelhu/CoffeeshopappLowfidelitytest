@@ -1,7 +1,7 @@
 
   # Coffee Shop App (Copy Low Fidelity Test)
 
-  This is a code bundle for Coffee Shop App (Copy Low Fidelity Test). The original project is available at https://www.figma.com/design/hilBpL248Mm67uqH8V01pg/Coffee-Shop-App--Copy-Low-Fidelity-Test-.
+  This is a code bundle for Coffee Shop App (Copy Low Fidelity Test). The original project is available at https://paper-stock-77458594.figma.site
 
   ## Running the code
 
