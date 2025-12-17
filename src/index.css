@@ -522,6 +522,10 @@
     border-top-width: 1px;
   }
 
+  .bg-\[rgb\(60\,121\,255\)\] {
+    background-color: #3c79ff;
+  }
+
   .bg-gray-50 {
     background-color: var(--color-gray-50);
   }
@@ -611,6 +615,14 @@
   .text-xs {
     font-size: var(--text-xs);
     line-height: var(--tw-leading, var(--text-xs--line-height));
+  }
+
+  .text-\[20px\] {
+    font-size: 20px;
+  }
+
+  .text-\[24px\] {
+    font-size: 24px;
   }
 
   .text-gray-400 {

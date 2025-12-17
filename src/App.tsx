@@ -124,13 +124,13 @@ export default function App() {
           <div className="flex gap-1">
             <button 
               onClick={() => setCurrentView('tracker')}
-              className="text-xs bg-gray-200 px-2 py-1"
+              className="text-xs bg-[rgb(60,121,255)] px-2 py-1 text-[24px]"
             >
               Trck
             </button>
             <button 
               onClick={() => setCurrentView('cart')}
-              className="text-xs bg-gray-200 px-2 py-1"
+              className="text-xs bg-[rgb(60,121,255)] px-2 py-1 text-[20px]"
             >
               Crt ({cart.length})
             </button>
@@ -190,7 +190,7 @@ export default function App() {
           onClick={() => setCurrentView('cart')}
           className="w-full text-center"
         >
-          <div className="text-xs text-gray-600">Cart: {cart.length} items</div>
+          <div className="text-xs text-gray-600 text-[20px]">Cart: {cart.length} items</div>
         </button>
       </div>
     </div>
